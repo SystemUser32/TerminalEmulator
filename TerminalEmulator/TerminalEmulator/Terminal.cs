@@ -199,6 +199,11 @@ namespace TerminalEmulator
                 		break;
                 		
                 		
+                	case "beep":
+                		Console.Beep();
+                		break;
+                		
+                		
                 	case "shutdown":
                 		Console.WriteLine("System will shut down in 10 seconds");
                 		Process.Start("shutdown", "/s /t 10");
