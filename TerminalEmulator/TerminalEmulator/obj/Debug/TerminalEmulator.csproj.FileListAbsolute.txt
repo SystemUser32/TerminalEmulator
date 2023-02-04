@@ -1,0 +1,5 @@
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\not serious\various shit\TerminalEmulator\TerminalEmulator\bin\Debug\TerminalEmulator.exe
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\not serious\various shit\TerminalEmulator\TerminalEmulator\bin\Debug\TerminalEmulator.pdb
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\not serious\various shit\TerminalEmulator\TerminalEmulator\obj\Debug\TerminalEmulator.csprojResolveAssemblyReference.cache
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\not serious\various shit\TerminalEmulator\TerminalEmulator\obj\Debug\TerminalEmulator.exe
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\not serious\various shit\TerminalEmulator\TerminalEmulator\obj\Debug\TerminalEmulator.pdb
